@@ -1,0 +1,2 @@
+Resolução do deafio de Data Science elaborado pela Microsoft proposto ao grupo 4 (Gabriela, Aline, Thais, Aline e Paola) do 1º Bootcamp de Dados da MIA (Mulheres em IA) - 2020. Utilizando os conhecimentos adquiridos no bootcamp, o grupo buscou responder às questões do estudo de caso sobre o mercado cinematográfico, oferecendo interpretações com base em dados, e desenvolveu modelos de Machine Learning a fim de identificar padrões e realizar predições.
+
